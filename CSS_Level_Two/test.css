@@ -1,0 +1,35 @@
+h1{
+  font-family: 'Sedgwick Ave', cursive;
+  text-align: center;
+}
+
+.artist{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+td{
+  width: 120px;
+  height: 200px;
+  border: 40px white solid;
+}
+
+#one{
+  background-color: blue;
+}
+
+#two{
+  background-color: green;
+}
+
+#three{
+  background-color: purple;
+}
+
+#four{
+  background-color: yellow;
+}
+
+#five{
+  background-color: red;
+}

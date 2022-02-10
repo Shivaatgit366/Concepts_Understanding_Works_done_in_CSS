@@ -1,0 +1,33 @@
+h1{
+  font-family: monospace;
+}
+
+body{
+  font-family: "Arial";
+}
+
+/*
+1em = same size of that element.
+2em = two times the size of that element.
+*/
+
+body{
+  font-size: 20px;
+}
+
+#two{
+  font-size: 2em;
+}
+
+p{
+  font-style: italic;
+  font-weight: bold;
+}
+
+h1{
+  text-align: right;
+}
+
+body{
+  font-family: 'Source Code Pro', monospace;
+}
